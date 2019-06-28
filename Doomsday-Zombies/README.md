@@ -1847,7 +1847,7 @@ lofter：http://zcxy-gs.lofter.com/
 
 sf：https://segmentfault.com/u/mybestangel
 
-git：https://github.com/gs3170981/vscode_cors.git
+git：https://github.com/gs3170981/relax-for-a-moment
 
 -------------------
 
